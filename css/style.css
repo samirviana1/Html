@@ -1,0 +1,52 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background: url('../images/fundo.jpg') no-repeat fixed center top;
+    background-size: cover ;
+}
+
+header {
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    padding: 20px;
+}
+
+h1{
+    text-align: center;
+}
+
+main {
+    padding: 0px 20px 0px 20px;
+}
+
+footer {
+    background-color: black;
+    color: white;
+    font-size: 25px;
+    text-align: center;
+    margin-top: 20px;
+    padding: 20px;
+}
+
+#titulo{
+    color: #272746;
+}
+
+.paragrafo {
+    color: #272746;
+    font-size: 20px;
+}
+
+.table, td, th, tr {
+    width: 500px;
+    border: 1px solid #272746;
+}
+
+.fundo-branco{
+    background-color: white;
+    border-radius: 20px;
+    padding: 20px;
+    margin: 20px;
+}
